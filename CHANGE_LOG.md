@@ -1,4 +1,18 @@
-January 9 2025
+=== January 13 2025 ===
+
+Version two has been launched.
+
+Word Crow now contains theese three additional applications
+- Crows Nest
+- Scoresheet
+- Word Judge
+
+There have been a lot of fixes made to the app. Here are some examples:
+- Screen resizes to fit now
+- Quiz was failing to generate if too few words in the list
+- Various languages can now be displayed in the text (Japanese, Chinese, Korean, Indian languages, Thai and a few others)
+
+=== January 9 2025 ===
 
 Inaugural launch, but early access status
 
