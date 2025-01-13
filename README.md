@@ -1,6 +1,10 @@
 # WordCrowRelease
 
-This repository contains the Windows application and android apk.
+Welcome to the public release repository for Word Crow!
+
+=== Version Two Released : 13 January 2025 ===
+
+This repository contains both the Windows application and Android apk. You'll find these in each version folder (download from the latest version folder)
 
 You may click on the green 'Code' button and 'Download as zip' to acquire all the files in one go and use them as you see fit. 
 
